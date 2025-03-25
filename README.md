@@ -38,7 +38,7 @@ While the funding arbitrage model was initially applied, quarterly contracts req
 
 ## 📁 Files
 
-- `BTCArbPendle.py` – Full strategy implementation and logic
+- `quarterly_arb_bot.py` – Full strategy implementation and logic
 - `README.md` – Project overview, limitations, and roadmap
 
 ---
